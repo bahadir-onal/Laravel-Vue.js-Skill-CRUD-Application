@@ -6,7 +6,7 @@ Bu proje, Laravel API ve Vue.js kullanarak bir yetenek (skill) CRUD (Create, Rea
   Projenin yerel ortamınıza kurulumu ve kullanımı aşağıdaki adımları izleyerek gerçekleştirilebilir:
   ### Laravel API
 1. GitHub repository'sini klonlayın:
-`git clone <repo-url>`
+`git clone https://github.com/bahadir-onal/Laravel-Vue.js-Skill-CRUD-Application.git`
 
 2. Proje dizinine gidin ve gerekli bağımlılıkları yükleyin:
  `composer install`
@@ -23,7 +23,7 @@ Bu proje, Laravel API ve Vue.js kullanarak bir yetenek (skill) CRUD (Create, Rea
 
 ### Vue.js
  1. GitHub repository'sini klonlayın:
-`git clone <repo-url>`
+`git clone https://github.com/bahadir-onal/Laravel-Vue.js-Skill-CRUD-Application.git`
 
 2. Proje dizinine gidin ve gerekli bağımlılıkları yükleyin:
 `npm install`
